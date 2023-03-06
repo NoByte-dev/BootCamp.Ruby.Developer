@@ -19,3 +19,4 @@ Na [Formação Ruby Developer](https://web.dio.me/track/formacao-ruby-developer)
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/) - Um pouco mais pesado que o Code, não considero melhor nem pior, digamos que ele e o Code se complementam pra mim.
 - [Oh My Posh](https://ohmyposh.dev/) - Personalização do Terminal, o terminal virou meu melhor amigo depois que comecei essa jornada, então aprendi a cuidar bem dele.
 - [Ruby](https://www.ruby-lang.org/pt/) - Site oficial do Ruby.
+- [RubyGems](https://rubygems.org/) Encontre, instale e publique RubyGems.
