@@ -1,4 +1,4 @@
-# Dio.BootCamp
+# Formação.Ruby
 
 Na [Formação Ruby Developer](https://web.dio.me/track/formacao-ruby-developer), você irá conhecer o surgimento dessa linguagem, entender como é fácil criar e manipular seus códigos, afinal esse foi o propósito de sua criação, além de ver na prática a POO aplicada a Ruby, trabalhar com APIs, arquitetura MVC e claro, conhecer o famoso framework **Ruby on Rails**.
 
