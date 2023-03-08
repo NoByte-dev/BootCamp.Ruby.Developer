@@ -1,5 +1,5 @@
 require_relative 'produto'
-require_relative 'loja'
+require_relative 'mercado'
 
 prouto = Produto.new
     prouto.nome = "Forma para bolo redonda"
@@ -9,5 +9,5 @@ produto1 = Produto.new
     produto1.nome = "Bolo de cenoura com calda de chocolate"
     produto1.preco = 50.00
 
-Loja.new(prouto.nome, prouto.preco).comprar
-Loja.new(produto1.nome, produto1.preco).comprar
+Mercado.new(prouto.nome, prouto.preco).comprar
+Mercado.new(produto1.nome, produto1.preco).comprar
