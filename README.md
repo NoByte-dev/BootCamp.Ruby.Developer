@@ -20,3 +20,4 @@ Na [Formação Ruby Developer](https://web.dio.me/track/formacao-ruby-developer)
 - [Oh My Posh](https://ohmyposh.dev/) - Personalização do Terminal, o terminal virou meu melhor amigo depois que comecei essa jornada, então aprendi a cuidar bem dele.
 - [Ruby](https://www.ruby-lang.org/pt/) - Site oficial do Ruby.
 - [RubyGems](https://rubygems.org/) - Encontre, instale e publique RubyGems.
+- [RubyOnRails](https://rubyonrails.org/) - Tudo sobre esse framework maravilindo que estou adorando conhecer.
