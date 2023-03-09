@@ -8,8 +8,8 @@ Na [Formação Ruby Developer](https://web.dio.me/track/formacao-ruby-developer)
 - [x] - Avançando na Linguagem Ruby (7 Horas)
 - [x] - Programação Orientada a Objetos com Ruby (6 Horas)
 - [x] - Conhecendo Ruby On Rails (5 Horas)
-- [ ] - Explorando Closures e Expressões Regulares com Ruby (4 Horas)
-- [ ] - Primeiros passos na Comunicação Web em Ruby (5 Horas)
+- [X] - Explorando Closures e Expressões Regulares com Ruby (4 Horas)
+- [x] - Primeiros passos na Comunicação Web em Ruby (5 Horas)
 
 ### Links importantes adquiridos ao logo dessa jornada.
 - [Stackedit](https://stackedit.io/app#) - Melhor editor de markdown que eu encontrei.
